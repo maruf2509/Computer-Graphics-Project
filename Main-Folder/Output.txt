@@ -1,0 +1,10 @@
+Solar System Simulation Controls:
+WASD / Arrow Keys - Rotate view
+Mouse drag - Rotate view
+Mouse wheel - Zoom in/out
+Space - Pause/Resume
+O - Toggle orbit display
++/- - Increase/Decrease speed
+1-8 - Select planet
+0 - Deselect planet
+ESC - Exit
